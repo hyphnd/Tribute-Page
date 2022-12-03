@@ -1,0 +1,21 @@
+body{
+  font-family:"Lucida Sans Regular";
+  color:#edf2f1;
+  background-image: url(https://img.freepik.com/premium-photo/jungle-background-tropical-leaves-green-water-backdrop-3d-render_659272-37.jpg?w=1380);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color:#a5c391;
+  text-align:center;
+}
+img{
+  display:block;
+
+}
+#image{
+  max-width:100%;
+  height:auto;  
+}
+a{
+  color:green;
+}
+
